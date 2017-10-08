@@ -66,8 +66,3 @@ std::ostream &operator<<(std::ostream& stream, const Concert &c)
     stream << "       Desire: " << c.desire;
     return stream;
 }
-
-
-
-
-
